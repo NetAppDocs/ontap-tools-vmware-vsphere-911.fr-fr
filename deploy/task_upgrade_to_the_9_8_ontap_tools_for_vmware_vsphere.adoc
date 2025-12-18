@@ -11,7 +11,7 @@ summary: Vous pouvez effectuer une mise à niveau sans déplacement des données
 
 
 [role="lead"]
-Vous pouvez effectuer une mise à niveau sans déplacement des données vers la dernière version des outils ONTAP à partir de la version 9.7P1 existante ou ultérieure en suivant les instructions fournies ici.
+Vous pouvez effectuer une mise à niveau sur place vers la dernière version des outils ONTAP à partir de votre version 9.10 ou ultérieure existante en suivant les instructions fournies ici.
 
 *Ce dont vous aurez besoin*
 

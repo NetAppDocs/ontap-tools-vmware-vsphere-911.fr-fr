@@ -26,7 +26,7 @@ Impossible de trouver un réseau correspondant au volume de montage NFS sur ces 
 . Connectez-vous à votre instance de vCenter Server.
 . Lancez la console de maintenance à l'aide de votre machine virtuelle d'appliance unifiée.
 +
-link:reference_maintenance_console_of_ontap_tools_for_vmware_vsphere.html["Console de maintenance des outils ONTAP pour VMware vSphere"]
+link:../manage/reference_maintenance_console_of_ontap_tools_for_vmware_vsphere.html["Console de maintenance des outils ONTAP pour VMware vSphere"]
 
 . Entrez `4` Pour accéder à l'option support and Diagnostics.
 . Entrez `2` Pour accéder à l'option Access diagnostic Shell.

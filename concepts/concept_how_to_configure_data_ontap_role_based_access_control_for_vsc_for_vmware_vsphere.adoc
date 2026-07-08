@@ -27,12 +27,9 @@ NOTE: Pour créer ces rôles, vous pouvez utiliser l'une des méthodes suivantes
 +
 ** ONTAP System Manager 9.8P1 ou version ultérieure
 +
-link:../configure/task_configure_user_role_and_privileges.html["Configurez les rôles et privilèges utilisateur"]
+link:../configure/task_configure_user_role_and_privileges.html["Configurez les rôles et privilèges utilisateur"^]
 
 ** Créateur d'utilisateurs RBAC pour l'outil ONTAP (si vous utilisez ONTAP 9.6 ou une version antérieure)
-+
-https://community.netapp.com/t5/Virtualization-Articles-and-Resources/RBAC-User-Creator-tool-for-VSC-VASA-Provider-and-Storage-Replication-Adapter-7-0/ta-p/133203/t5/Virtualization-Articles-and-Resources/How-to-use-the-RBAC-User-Creator-for-Data-ONTAP/ta-p/86601["Outil RBAC User Creator pour VSC, VASA Provider et Storage Replication adapter 7.0 pour VMware vSphere"]
-
 
 
 * Créez des utilisateurs avec le rôle attribué et le jeu d'applications approprié à l'aide de ONTAP
